@@ -35,8 +35,4 @@ public class UserController {
 		}
 		throw new InvalidVersionException("Provide a valid version");
 	}
-	
-	public void findById() {
-		
-	}
 }
